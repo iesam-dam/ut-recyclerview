@@ -6,7 +6,7 @@
 2. Cómo usar DiffUtil para hacer un RecyclerView más eficiente.
 3. Cómo añadir eventos (onclick) a un RecyclerView.
 
-## Definición del Problema a resolver
+## Definición del oroblema a resolver
 
 En muchas aplicaciones nos encontramos que tenemos que mostrar un listado de registros obtenidos
 de una API o de una Bases de Datos local. El número de registros es dinámico, unas veces puede tener
