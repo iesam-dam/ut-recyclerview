@@ -16,7 +16,7 @@ Un planteamiento erróneo sería el crearse la vista de forma dinámica teniendo
 contenedor padre ya que esto haría que la vista al completo estuviera en memoria. Si tiene cinco
 registros no habría ningún problema pero si tiene cien quizás la aplicación se bloquearía.
 
-## Solución: RecyclerView
+## Solución
 
 La solución para estos casos es usar un RecyclerView ya que gestiona la memoria de una forma
 eficiente. Carga en memoria sólo los items que visualiza el usuario en la pantalla (quizás algunos
