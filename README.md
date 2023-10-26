@@ -18,7 +18,7 @@ registros no habría ningún problema pero si tiene cien quizás la aplicación 
 
 ## Solución: RecyclerView
 
-La salución para estos casos es usar un RecyclerView ya que gestiona la memoria de una forma
+La solución para estos casos es usar un RecyclerView ya que gestiona la memoria de una forma
 eficiente. Carga en memoria sólo los items que visualiza el usuario en la pantalla (quizás algunos
 más). Cuando el usuario va haciendo scroll, aprovecha las vistas ya cargadas y sólo cambia la
 información
